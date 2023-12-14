@@ -1,0 +1,31 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/setup_tile_Boss.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/topit/TheRickAdventures/graphics/character",
+    "map.height": 11,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/setup_tile_Boss.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

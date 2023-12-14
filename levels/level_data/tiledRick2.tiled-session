@@ -1,0 +1,102 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/topit/OneDrive/Escritorio/tiledRick.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/topit/OneDrive/Escritorio/tiledRick.tmx": {
+            "scale": 0.021028645833333335,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 24775.727554179568,
+                "y": 594.4272445820443
+            }
+        },
+        "C:/Users/topit/TheRickAdventures/TIle_Sets/coin_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/TIle_Sets/setup_tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/TIle_Sets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/coin_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/coin_tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/player_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/player_tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/setup_tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/setup_tile2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/terrain_tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/topit/TheRickAdventures/levels/tile_Sets/water_tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_2.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 3840,
+                "y": 370
+            }
+        },
+        "tiledRick.tmx": {
+            "scale": 0.25902343749999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3771.859448047052,
+                "y": -214.26632483788273
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/topit/TheRickAdventures/levels/1",
+    "last.imagePath": "C:/Users/topit/TheRickAdventures/graphics/character",
+    "map.height": 11,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 60,
+    "openFiles": [
+        "level_2.tmx",
+        "tiledRick.tmx",
+        "C:/Users/topit/OneDrive/Escritorio/tiledRick.tmx"
+    ],
+    "project": "tiledRick2.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "level_2.tmx",
+        "tiledRick.tmx",
+        "C:/Users/topit/OneDrive/Escritorio/tiledRick.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
